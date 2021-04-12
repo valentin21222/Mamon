@@ -1,3 +1,4 @@
+@import '_media.css';
 body {
   font-family: "Ubuntu", sans-serif;
 }
@@ -50,6 +51,7 @@ body {
   color: #fff;
   border: none;
   font-weight: 700;
+  cursor: pointer;
 }
 .logo {
   display: flex;
@@ -118,6 +120,7 @@ h1 {
   justify-content: flex-start;
   align-items: center;
   height: 171px;
+  width: 523px;
 }
 .services_img {
   flex-basis: 136px;
@@ -190,4 +193,3 @@ h1 {
   color: #b2b2b2;
   font-size: 24px;
 }
-
